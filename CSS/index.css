@@ -108,12 +108,13 @@ button{
         display: none;
     }
 
-    footer{
-      text-align: center;
-    }
-
     ul{
         text-align: center;
     }
 }
+footer{
+    text-align: center;
+  }
+
+
 
