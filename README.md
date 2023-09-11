@@ -1,4 +1,4 @@
-# projeto-main
+# teste-projeto-grupo-2
 
 Teste do segundo projeto em grupo, utilizando, html, css e Bootstrap, esse um pouco mais evoluido que o outro, pois utilizo outras tecnicas
 
